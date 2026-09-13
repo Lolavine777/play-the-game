@@ -12,7 +12,8 @@ Khác với BloodHound mặc định chỉ đếm số bước nhảy (Unweighte
 ## Báo Cáo Nghiên Cứu Chi Tiết
 
 Tất cả phân tích chi tiết, giải mã dữ liệu và cơ sở toán học đã được tổng hợp tại:
-- **Tài liệu nghiên cứu chuyên sâu:** [`docs/01_data_discovery_and_weighting_model.md`](docs/01_data_discovery_and_weighting_model.md)
+- **Tài liệu nghiên cứu khám phá dữ liệu:** [`docs/01_data_discovery_and_weighting_model.md`](docs/01_data_discovery_and_weighting_model.md)
+- **Báo cáo chuyên sâu biện luận trọng số cạnh:** [`docs/02_edge_weighting_model_and_reasoning.md`](docs/02_edge_weighting_model_and_reasoning.md)
 - **Hợp đồng trọng số các cạnh:** [`data/processed/edge_weights_contract.csv`](data/processed/edge_weights_contract.csv)
 
 ---
