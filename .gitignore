@@ -14,3 +14,7 @@ wheels/
 *.docx
 *.pptx
 *.xlsx
+
+# Archives and OS artifacts
+.DS_Store
+*.zip
